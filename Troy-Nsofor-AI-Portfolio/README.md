@@ -12,6 +12,7 @@ pandas – data loading and preprocessing
 transformers (HuggingFace) – embeddings, sentiment analysis, or topic modeling
 gensim – advanced topic modeling (LDA)
 Jupyter Notebook / Google Colab – development and testing
+KMeans
 
 Instructions to Access:
 Download your chosen dataset (CSV, JSON, or RSS feed).
