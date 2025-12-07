@@ -9,7 +9,7 @@ Courses I'm taken: Computer Virtualization and Natural Language Processing
 
 Links to projects: https://colab.research.google.com/drive/15YlEyIHNqm2IRApdBHmSukNHxaXXoo8Z, https://colab.research.google.com/drive/1FvuTdkpgPGSbqRnkcPZboS_lazR1XCp4
 
-Professional Contact Information: 281-886-2483
+Professional Contact Information: troynsofor@gmail.com
 
 Problem statements for the project ( Mid-Term Group Project: NewsBot Intelligence System ): With so many news articles published every day, users struggle to filter information, detect trends, and quickly understand what’s happening. The NewsBot Intelligence System was created to solve this by automatically processing news data, identifying key topics, clustering related stories, analyzing sentiment, and allowing users to explore insights through a conversational AI interface. It transforms large amounts of raw text into clear, actionable information.
 
